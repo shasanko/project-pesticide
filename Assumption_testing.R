@@ -53,3 +53,7 @@ summary(lm(pestarea_pesticideconsump_join_1$Amount~pestarea_pesticideconsump_joi
 # Use FRAGSTATS to
 
 # I have made some changes to this file before adding and committing 
+# This line is not yet committed. Will this line appear in the new branch called project-pesticide-branch2 which I am creating from the project-pesticide-branch?
+Yes, this line has appeared in the new branch without committing the new changes. It has not created a separate folder in my machine.
+
+Now, I typed the above line in the new branch. Will it appear in the old branch?
