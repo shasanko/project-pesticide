@@ -51,3 +51,4 @@ summary(lm(pestarea_pesticideconsump_join_1$Amount~pestarea_pesticideconsump_joi
 # This means that the area treated with pesticides in sampled farms is not confounded by the number of applications
 
 # Use FRAGSTATS to 
+These are additional changes someone else has made in the master. After this, I want to bring in these changes into my branch.
