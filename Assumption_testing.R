@@ -1,4 +1,4 @@
-# Assumption 1#
+﻿# Assumption 1#
 # If the proportion of cropland in a district treated with pesticides is used as the response
 # variable, it is assumed that the amount of pesticides applied is correlated with the variable.
 # But this assumption has to be tested. I will do so following Meehan et al. (2011)
@@ -50,5 +50,7 @@ summary(lm(pestarea_pesticideconsump_join_1$Amount~pestarea_pesticideconsump_joi
 # The area treated with pesticides in the sampled farms at state level is positively correlated with amount of pestcides used at state level.
 # This means that the area treated with pesticides in sampled farms is not confounded by the number of applications
 
+
 # Use FRAGSTATS to 
 These are additional changes someone else has made in the master. After this, I want to bring in these changes into my branch.
+I have made some changes to this file before adding and committing.
